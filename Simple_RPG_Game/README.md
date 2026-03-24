@@ -1,8 +1,8 @@
-#A simple RPG game
+# A simple RPG game
 
 
 
-##the project include : 
+## the project include : 
 
 while loops
 
