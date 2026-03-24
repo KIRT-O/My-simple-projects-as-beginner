@@ -1,8 +1,8 @@
-\# A simple RPG game
+#A simple RPG game
 
 
 
-\## the project include : 
+##the project include : 
 
 while loops
 
@@ -12,5 +12,5 @@ The game has a logic that that i describe how it works inside the code in the Te
 
 
 
-\*now this is my first project that i did by myself without help\*
+*now this is my first project that i did by myself without help*
 
