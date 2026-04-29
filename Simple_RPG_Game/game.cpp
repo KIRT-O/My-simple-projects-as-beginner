@@ -50,7 +50,7 @@ int main() {
             monsterAttack = 0 ;
             randomMonsterAttack =  rand() % 7  + 3 ;
         cout << "-------------------------------------------------------------------------- " << endl   ;
-        cout << "\--- Your Health: " << playerHealth << " | Monster Health: " << monsterHealth << " ---" << endl;
+        cout << "--- Your Health: " << playerHealth << " | Monster Health: " << monsterHealth << " ---" << endl;
     monsterAttack += randomMonsterAttack;
     if ( monsterAttack  > 3 ) {
             cout << " You have " << healthPotions << " Health potions ! " << endl ;
