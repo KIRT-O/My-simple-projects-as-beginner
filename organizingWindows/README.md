@@ -1,4 +1,6 @@
-\## This files i made to organize windows in my desktop by just pressing "ALT+F11".
+###### This files i made to organize windows in my desktop by just pressing "ALT+F11".
+
+\---------------------------------------------------------------------------------
 
 The first one is made to see the coordinates of the mousse location.
 
